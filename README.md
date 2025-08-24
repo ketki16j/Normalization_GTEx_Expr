@@ -10,7 +10,8 @@
 ---
 
 ## Workflow Overview
-<img width="605" height="97" alt="Screenshot 2025-08-24 180504" src="https://github.com/user-attachments/assets/388a75c3-5064-4e8f-8306-31679374a99e" />
+Screenshot 2025-08-24 180504
+
 
 
 
